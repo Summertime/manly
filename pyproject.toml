@@ -17,4 +17,4 @@ classifiers = [
 ]
 
 [tool.flit.scripts]
-manly = "manly:main"
+manly = "manly.cli:main"
